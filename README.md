@@ -21,35 +21,33 @@ This command will detect your operating system and create a Conda environment wi
 
 ## Datasets
 
-Dataset names are aliased in the code as follows:
+Dataset names are aliased in the code as follows and can be retrieved via the links below:
 
 ### Classification
-| Dataset name | Alias  |
-|:-------------|:-------|
-| college      | college|
- | water       | water  |
-| stroke      | stroke |
-| churn       | telco  |
-| recidivism  | compas |
-| credit      | fico   |
-| income      | adult  |
-| bank        | bank   |
-| airline     | airline|
-| weather     | weather|
+| Dataset name | Alias  | Repository Link |
+|:-------------|:-------|-----------------|
+| college      | college| https://www.kaggle.com/datasets/saddamazyazy/go-to-college-dataset |
+| water        | water  | https://kaggle.com/adityakadiwal/water-potability |
+| stroke       | stroke | https://kaggle.com/fedesoriano/stroke-prediction-dataset |
+| churn        | telco  | https://kaggle.com/blastchar/telco-customer-churn |
+| recidivism   | compas | https://www.kaggle.com/datasets/danofer/compass |
+| credit       | fico   | https://community.fico.com/s/explainable-machine-learning-challenge |
+| income       | adult  | https://archive.ics.uci.edu/ml/datasets/adult |
+| bank         | bank   | https://archive.ics.uci.edu/ml/datasets/Bank+Marketing |
+| airline      | airline| https://kaggle.com/teejmahal20/airline-passenger-satisfaction |
+| weather      | weather| https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package |
 
 ### Regression
-
-
-| Dataset name | Alias |
-|--------------| --- |
-| car         | car   |
-| student     | student|
-| productivity| productivity|
-| insurance   | medical|
-| crimes      | crimes|
-| farming     | crab|
-| wine        | wine|
-| bike        | bike|
-| house       | housing|
-| diamond     | diamond|
+| Dataset name | Alias  | Repository Link |
+|--------------|--------|-----------------|
+| car          | car    | https://archive.ics.uci.edu/ml/datasets/automobile |
+| student      | student| https://archive.ics.uci.edu/ml/datasets/Student+Performance |
+| productivity | productivity| https://archive.ics.uci.edu/ml/datasets/Productivity+Prediction+of+Garment+Employees |
+| insurance    | medical| https://www.kaggle.com/datasets/mirichoi0218/insurance |
+| crimes       | crimes | https://archive.ics.uci.edu/ml/datasets/Communities+and+Crime |
+| farming      | crab   | https://www.kaggle.com/datasets/sidhus/crab-age-prediction |
+| wine         | wine   | https://archive.ics.uci.edu/ml/datasets/wine+quality |
+| bike         | bike   | https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset |
+| house        | housing| https://www.kaggle.com/datasets/camnugent/california-housing-prices |
+| diamond      | diamond| https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices |
 
