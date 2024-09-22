@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+.idea/misc.xml
+__pycache__/
+data/.ipynb_checkpoints/Data Check-checkpoint.ipynb
+data/Data Check.ipynb
+plots/
+baseline/
+data/IHM-complete.csv
+test_TabNet_64/
+test_TabNet_10steps/
+r_experimental_runs/

@@ -1,0 +1,2 @@
+model,timing_best_model,mean_timing_all_hpo_configs
+CATBOOST,0.306±0.180,2.950±0.007

@@ -1,0 +1,2 @@
+model,timing_best_model,mean_timing_all_hpo_configs
+MLP,9.044±4.016,6.384±0.149

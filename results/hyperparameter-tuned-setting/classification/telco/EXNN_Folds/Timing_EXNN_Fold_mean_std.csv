@@ -1,0 +1,2 @@
+model,timing_best_model,mean_timing_all_hpo_configs
+EXNN,74.236±27.039,90.984±8.814

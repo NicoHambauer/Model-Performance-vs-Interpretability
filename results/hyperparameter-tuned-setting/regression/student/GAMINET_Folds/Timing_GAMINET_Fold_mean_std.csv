@@ -1,0 +1,2 @@
+model,timing_best_model,mean_timing_all_hpo_configs
+GAMINET,1.392±0.599,3.064±1.023

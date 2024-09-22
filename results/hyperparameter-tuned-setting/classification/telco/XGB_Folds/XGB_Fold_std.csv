@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support,ROC_AUC
+Churn,0.028,0.025,0.020,0.447,
+No Churn,0.007,0.013,0.007,0.447,
+accuracy,0.010,0.010,0.010,0.010,0.014
+macro avg,0.016,0.012,0.013,0.548,
+weighted avg,0.010,0.010,0.010,0.548,

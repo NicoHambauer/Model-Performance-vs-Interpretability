@@ -1,0 +1,2 @@
+model,timing_best_model,mean_timing_all_hpo_configs
+EBM,1.466±0.209,1.112±0.073

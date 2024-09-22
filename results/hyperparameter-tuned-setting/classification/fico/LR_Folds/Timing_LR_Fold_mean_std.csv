@@ -1,0 +1,2 @@
+model,timing_best_model,mean_timing_all_hpo_configs
+LR,0.626±0.535,0.328±0.004

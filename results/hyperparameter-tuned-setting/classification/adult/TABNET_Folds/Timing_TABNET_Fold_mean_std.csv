@@ -1,0 +1,2 @@
+model,timing_best_model,mean_timing_all_hpo_configs
+TABNET,14.894±3.712,25.570±0.614

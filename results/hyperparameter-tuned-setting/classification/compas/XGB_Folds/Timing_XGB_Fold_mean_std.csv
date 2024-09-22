@@ -1,0 +1,2 @@
+model,timing_best_model,mean_timing_all_hpo_configs
+XGB,0.120±0.148,0.588±0.008

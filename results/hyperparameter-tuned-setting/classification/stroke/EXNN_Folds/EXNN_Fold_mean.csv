@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support,ROC_AUC
+No Stroke,0.978,0.536,0.680,972.200,
+Stroke,0.079,0.742,0.142,49.800,
+accuracy,0.546,0.546,0.546,0.546,0.701
+macro avg,0.529,0.639,0.411,1022.000,
+weighted avg,0.934,0.546,0.654,1022.000,

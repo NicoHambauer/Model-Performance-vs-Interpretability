@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support,ROC_AUC
+Neutral or dissatisfied,0.878,0.906,0.892,11775.800,
+Satisfied,0.871,0.835,0.853,9005.000,
+accuracy,0.875,0.875,0.875,0.875,0.927
+macro avg,0.875,0.871,0.872,20780.800,
+weighted avg,0.875,0.875,0.875,20780.800,

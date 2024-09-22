@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support,ROC_AUC
+No subscription,0.002,0.002,0.001,0.548,
+"Yes, subscribed",0.043,0.020,0.027,0.447,
+accuracy,0.002,0.002,0.002,0.002,0.014
+macro avg,0.022,0.010,0.014,0.447,
+weighted avg,0.006,0.002,0.004,0.447,

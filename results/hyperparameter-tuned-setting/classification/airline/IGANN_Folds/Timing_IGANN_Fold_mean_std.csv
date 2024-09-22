@@ -1,0 +1,2 @@
+model,timing_best_model,mean_timing_all_hpo_configs
+IGANN,71.860±1.233,38.408±0.920

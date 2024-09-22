@@ -1,0 +1,2 @@
+model,timing_best_model,mean_timing_all_hpo_configs
+ELASTICNET,1.132±0.878,0.190±0.000

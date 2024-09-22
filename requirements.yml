@@ -1,0 +1,22 @@
+name: gam-compare
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.9.13
+  - pytorch=1.12.1
+  - torchvision
+  - torchaudio
+  - numpy
+  - pandas
+  - scikit-learn
+  - xgboost
+  - cudatoolkit=11.6
+  - pytorch-lightning
+  - pytorch-tabnet
+  - catboost
+  - scipy
+  - tensorflow
+  - pip

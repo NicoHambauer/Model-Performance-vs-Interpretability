@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support,ROC_AUC
+Not Potable,0.678,0.893,0.770,399.600,
+Potable,0.679,0.334,0.439,255.600,
+accuracy,0.675,0.675,0.675,0.675,0.688
+macro avg,0.678,0.614,0.605,655.200,
+weighted avg,0.678,0.675,0.641,655.200,

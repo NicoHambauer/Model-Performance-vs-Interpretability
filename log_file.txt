@@ -1,0 +1,15 @@
+Fit-Error: classification -- MGCV_SPLINE -- fico -- Fold: 4 -- Spline: cc : Error in gam.fit3(x = X, y = y, sp = L %*% lsp1 + lsp0, Eb = Eb, UrS = UrS,  : 
+  inner loop 3; can't correct step size
+
+Fit-Error: classification -- MGCV_SPLINE -- fico -- Fold: 4 -- Spline: cp : Error in gam.fit3(x = X, y = y, sp = L %*% lsp1 + lsp0, Eb = Eb, UrS = UrS,  : 
+  inner loop 3; can't correct step size
+
+Fit-Error: classification -- MGCV_SPLINE -- fico -- Fold: 4 -- Spline: cr : Error in gam.fit3(x = X, y = y, sp = L %*% lsp1 + lsp0, Eb = Eb, UrS = UrS,  : 
+  inner loop 3; can't correct step size
+
+Fit-Error: classification -- MGCV_SPLINE -- fico -- Fold: 4 -- Spline: bs : Error in gam.fit3(x = X, y = y, sp = L %*% lsp1 + lsp0, Eb = Eb, UrS = UrS,  : 
+  inner loop 3; can't correct step size
+
+Fit-Error: classification -- MGCV_SPLINE -- fico -- Fold: 4 -- Spline: tp : Error in gam.fit3(x = X, y = y, sp = L %*% lsp1 + lsp0, Eb = Eb, UrS = UrS,  : 
+  inner loop 3; can't correct step size
+

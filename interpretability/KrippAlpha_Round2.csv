@@ -1,0 +1,23 @@
+Sven R2;Splines;EBM;NAM;GAMI-Net;ExNN;IGANN;LR;DT;RF;XGB;MLP;TabNet;CatBoost;MGCV=TS
+Additivity;2;2;2;2;0;2;2;0;0;0;0;0;0;2
+Sparsity;1;0;1;2;0;1;2;1;1;1;0;2;1;1
+Linearity;1;0;0;2;0;2;2;0;0;0;0;0;0;1
+Smoothness;1;0;0;2;2;2;2;0;0;0;0;0;0;2
+Monotonicity;1;1;0;1;0;1;2;0;0;1;0;0;1;0
+Visualizability;2;2;2;2;0;2;2;2;0;0;0;0;0;2
+;;;;;;;;;;;;;;
+Nico R2;Splines;EBM;NAM;GAMI-Net;ExNN;IGANN;LR;DT;RF;XGB;MLP;;;
+Additivity;2;2;2;2;0;2;2;0;0;0;0;0;0;2
+Sparsity;1;0;1;2;0;1;2;1;1;1;0;1;1;1
+Linearity;1;0;0;2;0;2;2;0;0;0;0;0;0;1
+Smoothness;1;0;0;2;2;2;2;0;0;0;0;0;0;2
+Monotonicity;1;1;0;1;0;1;2;0;0;1;0;0;1;0
+Visualizability;2;2;0;2;0;2;2;2;0;0;0;0;0;2
+;;;;;;;;;;;;;;
+Patrick R2;Splines;EBM;NAM;GAMI-Net;ExNN;IGANN;LR;DT;RF;XGB;MLP;;;
+Additivity;2;2;2;2;1;2;2;0;0;0;0;0;0;2
+Sparsity;0;1;1;2;1;1;2;1;0;0;0;2;1;1
+Linearity;1;0;0;1;0;2;2;0;0;0;0;0;0;1
+Smoothness;1;1;0;2;2;2;2;0;0;0;0;0;0;2
+Monotonicity;1;1;0;1;0;1;2;0;0;1;0;0;1;0
+Visualizability;2;2;2;2;0;2;2;2;0;0;0;0;0;2

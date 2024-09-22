@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support,ROC_AUC
+Bad,0.018,0.020,0.011,0.447,
+Good,0.012,0.031,0.016,0.000,
+accuracy,0.012,0.012,0.012,0.012,0.013
+macro avg,0.011,0.012,0.012,0.447,
+weighted avg,0.012,0.012,0.012,0.447,

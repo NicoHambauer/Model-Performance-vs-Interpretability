@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support,ROC_AUC
+Income <= 50K,0.010,0.015,0.003,0.000,
+Income > 50K,0.033,0.043,0.017,0.447,
+accuracy,0.004,0.004,0.004,0.004,0.003
+macro avg,0.013,0.015,0.008,0.447,
+weighted avg,0.005,0.004,0.005,0.447,

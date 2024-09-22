@@ -1,0 +1,2 @@
+model,timing_best_model,mean_timing_all_hpo_configs
+MGCV_SPLINE,0.024,0.020
