@@ -1,13 +1,61 @@
-version = 3
+version = 1
 
-[files."results/*"]
-license = "NONE"
+[[annotations]]
+path = "results/**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "NONE"
 
-[files."baseline/*"]
-license = "NONE"
+[[annotations]]
+path = "baseline/**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "NONE"
 
-[files."arch/*"]
-license = "NONE"
+[[annotations]]
+path = "arch/**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "NONE"
 
-[files."data/*"]
-license = "NONE"
+[[annotations]]
+path = ".github/**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "NONE"
+
+[[annotations]]
+path = "**.json"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "NONE"
+
+[[annotations]]
+path = "REUSE.toml"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "NONE"
+
+[[annotations]]
+path = "**.md"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "NONE"
+
+[[annotations]]
+path = "interpretability/**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "NONE"
+
+[[annotations]]
+path = "requirements**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "NONE"
+
+[[annotations]]
+path = "sandbox**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "NONE"
