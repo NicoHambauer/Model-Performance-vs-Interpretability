@@ -51,3 +51,7 @@ Dataset names are aliased in the code as follows and can be retrieved via the li
 | house        | housing| https://www.kaggle.com/datasets/camnugent/california-housing-prices |
 | diamond      | diamond| https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices |
 
+## License
+
+This project is operated under an MIT license. 
+Every file must contain the REUSE-compliant license and copyright declaration:

@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Nico Hambauer, Sven Kruschel
+#
+# SPDX-License-Identifier: MIT
+
 import numpy as np
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder, FunctionTransformer

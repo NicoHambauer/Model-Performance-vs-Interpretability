@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Nico Hambauer, Sven Kruschel
+#
+# SPDX-License-Identifier: MIT
+
 from typing import Union
 import os
 

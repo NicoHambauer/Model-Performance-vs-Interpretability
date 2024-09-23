@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Nico Hambauer, Sven Kruschel
+#
+# SPDX-License-Identifier: MIT
+
 import os
 
 # os.environ["R_HOME"] = r"C:\Program Files\R\R-4.3.3"
@@ -76,9 +80,6 @@ P-Spline: "bs"
 D-Spline: "ds"
 Thin Spline with Modification: "tp"
 
-
-method: lassen wir erstmal weg
-optimizer: lassen wir erstmal weg
-k: default sind wohl 100
+k: default 100
 
 """

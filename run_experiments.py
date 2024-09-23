@@ -1,6 +1,6 @@
-"""
-License will be added once public
-"""
+# SPDX-FileCopyrightText: 2024 Nico Hambauer, Sven Kruschel
+#
+# SPDX-License-Identifier: MIT
 
 import os
 import warnings
