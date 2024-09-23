@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Nico Hambauer, Sven Kruschel
+#
+# SPDX-License-Identifier: MIT
+
 import os
 
 # os.environ["R_HOME"] = r"C:\Program Files\R\R-4.3.3"

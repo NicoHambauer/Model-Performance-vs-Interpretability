@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Mathias Kraus
+#
+# SPDX-License-Identifier: MIT
+
 import time
 import torch
 import warnings

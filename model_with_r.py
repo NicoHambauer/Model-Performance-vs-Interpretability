@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Nico Hambauer, Sven Kruschel
+#
+# SPDX-License-Identifier: MIT
+
 from typing import List
 import numpy as np
 import pandas as pd

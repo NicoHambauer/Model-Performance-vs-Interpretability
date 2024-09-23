@@ -1,8 +1,7 @@
-"""
+# SPDX-FileCopyrightText: 2024 Nico Hambauer
+#
+# SPDX-License-Identifier: MIT
 
-
-No License
-"""
 import os
 import re
 from glob import glob
