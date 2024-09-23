@@ -1,0 +1,13 @@
+version = 3
+
+[files."results/*"]
+license = "NONE"
+
+[files."baseline/*"]
+license = "NONE"
+
+[files."arch/*"]
+license = "NONE"
+
+[files."data/*"]
+license = "NONE"
